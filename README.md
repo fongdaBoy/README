@@ -4,9 +4,9 @@ README
 
 ****
 	
-|Author|果冻虾仁|
+|Author|fongdaBoy|
 |---|---
-|E-mail|Jelly.K.Wang@qq.com
+|E-mail|fongdaBoy@qq.com
 
 
 ****
@@ -81,8 +81,7 @@ ___
 使用一对各三个的反引号：
 ```
 欢迎到访
-我是C++码农
-你可以在知乎、CSDN、简书搜索【果冻虾仁】找到我
+我是全栈攻城狮
 ```
 该语法也可以实现代码高亮，见[代码高亮](#代码高亮)
 ### 文字高亮
@@ -150,7 +149,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 |#|语法|效果|
 |---|----|-----|
-|1|`[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")`|[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")|
+|1|`[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")`|[我的博客](http://blog.csdn.net/iceking66 "悬停显示")|
 |2|`[我的知乎][zhihu] `|[我的知乎][zhihu] |
 
 语法2由两部分组成：
@@ -173,7 +172,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 |#|语法|效果|
 |---|----|:---:|
-|1|`[![weibo-logo]](http://weibo.com/linpiaochen)`|[![weibo-logo]](http://weibo.com/linpiaochen)|
+|1|`[![weibo-logo]](http://weibo.com/linpiaochen)`|[![weibo-logo]](https://weibo.com/u/2934128222?is_all=1)|
 |2|`[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]`|[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]|
 |3|`[![csdn-logo]][csdn]`|[![csdn-logo]][csdn]|
 
@@ -193,8 +192,8 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 ## 列表
 ### 无序列表
-* 昵称：果冻虾仁
-- 别名：隔壁老王
+* 昵称：fongdaBoy
+- 别名：alert
 * 英文名：Jelly
 
 ### 多级无序列表
@@ -332,9 +331,9 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 
 
 --------------------------------
-[csdn]:http://blog.csdn.net/guodongxiaren "我的博客"
+[csdn]:http://blog.csdn.net/fongdaBoy "我的博客"
 [zhihu]:https://www.zhihu.com/people/jellywong "我的知乎，欢迎关注"
-[weibo]:http://weibo.com/linpiaochen
+[weibo]:https://weibo.com/u/2934128222?is_all=1
 [baidu-logo]:http://www.baidu.com/img/bdlogo.gif "百度logo"
 [weibo-logo]:/img/weibo.png "点击图片进入我的微博"
 [csdn-logo]:/img/csdn.png "我的CSDN博客"
